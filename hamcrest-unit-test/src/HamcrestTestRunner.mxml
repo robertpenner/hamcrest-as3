@@ -2,7 +2,7 @@
 <mx:Application 
     styleName="flexUnitApplication"
     creationComplete="runMe()"
-    xmlns:flexui="flexunit.flexui.*"
+    xmlns:flexui="org.flexunit.flexui.*"
     xmlns:mx="http://www.adobe.com/2006/mxml"
     >
 
